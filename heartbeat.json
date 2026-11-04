@@ -1,6 +1,6 @@
 {
  "beacon": "mission-control-capture-path",
- "laptop_ts": "2026-11-04T14:55:35Z",
- "last_runlog_ts": "2026-11-04T14:55:34.923Z",
+ "laptop_ts": "2026-11-04T15:25:39Z",
+ "last_runlog_ts": "2026-11-04T15:25:39.189Z",
  "note": "data-free liveness beacon: two timestamps only, no program content"
 }
